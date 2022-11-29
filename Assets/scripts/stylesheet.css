@@ -1,0 +1,367 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Century Gothic');
+
+h1    {
+  font-family: Century Gothic;;
+  font-size: 12pt;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 10px;
+}
+body   {
+  font-family: Century Gothic;;
+  font-size: 12pt;
+  color: #ffffff;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+div.a {
+  text-indent: 30px;
+}
+div.b {
+  text-indent: 0px;
+}
+p.inset {
+  border-style: inset;
+}
+
+:lang(he) {
+    direction:rtl;
+    font-family: Times;;
+}
+
+.rotate {
+  writing-mode: tb-rl;
+  text-orientation: mixed;
+}
+
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin-top: 45px;
+}
+
+
+.index{
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#enter{
+  border:2px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+ #logo {
+    float:left;
+    margin:0;
+    padding:2px;
+    background-color: ;
+  }
+
+
+#language {
+  border:2px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#language th {
+  border:2px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 12pt;
+  color: #ffffff;
+}
+#language td {
+  border:2px solid #c0c0c0;
+  font-family: Century Gothic;;
+  font-size: 12pt;
+  color: #000000;
+  direction: auto;
+}
+#language tr:nth-child(odd){
+  background-color:   #f2f3f4;
+}
+#language tr:nth-child(even) {
+  background-color: #ffffff;
+  padding:8px;
+}
+
+#language td:nth-child(even) {
+  padding-left:5px;
+}
+
+
+#albumlist {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+  table-layout: center;
+}
+#albumlist th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #ffffff;
+}
+#albumlist td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#albumlist td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#albumlist td:nth-child(4) {
+  text-align: center;
+}
+#albumlist td:nth-child(5) {
+  text-align: center;
+}
+#albumlist td:nth-child(6) {
+  text-align: center;
+}
+#albumlist td:nth-child(7) {
+  text-align: center;
+}
+#albumlist img {
+  border-radius: 8px;
+}
+#albumlist tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#albumlist tr:nth-child(even){
+  background-color: white;
+}
+
+
+
+#written {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#written th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: white;
+}
+#written td:first-child {
+  font-weight: bold;
+  text-align: left;
+}
+#written td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  height: 35px ;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#written tr:nth-child(odd){
+  background-color:   #f2f3f4;
+}
+#written tr:nth-child(even){
+  background-color: #ffffff;  
+}
+ #written td:nth-child(1){
+  font-weight: bold;
+  font-size: 11pt;
+}
+#written {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#written th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: white;
+}
+
+
+#bootleg {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#bootleg th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: white;
+}
+#bootleg td:first-child {
+  font-weight: bold;
+  text-align: left;
+}
+#bootleg td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  height: 75px ;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#bootleg tr:nth-child(odd){
+  background-color:   #f2f3f4;
+}
+#bootleg tr:nth-child(even){
+  background-color: #ffffff;   
+}
+ #bootleg td:nth-child(1){
+  font-weight: bold;
+  font-size: 11pt;
+}
+ #bootleg td:nth-child(3){
+  text-align: center;
+  width: 30px;
+} 
+#bootleg td:nth-child(4){
+  text-align: center;
+}
+ #bootleg td:nth-child(5){
+  text-align: center;
+}
+#bootleg {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+}
+#bootleg th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: white;
+}
+
+#audiobooks {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+  table-layout: center;
+}
+#audiobooks th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #ffffff;
+}
+#audiobooks td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#audiobooks td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#audiobooks td:nth-child(4) {
+  text-align: center;
+}
+#audiobooks td:nth-child(5) {
+  text-align: center;
+}
+#audiobooks td:nth-child(6) {
+  text-align: center;
+}
+#audiobooks td:nth-child(7) {
+  text-align: center;
+}
+#audiobooks img {
+  border-radius: 8px;
+}
+#audiobooks tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#audiobooks tr:nth-child(even){
+  background-color: white;
+}
+#opera {
+  border:1px solid #c0c0c0;
+  border-collapse:collapse;
+  padding:2px;
+  table-layout: center;
+}
+#opera th {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  background: #767684;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #ffffff;
+}
+#opera td {
+  border:1px solid #c0c0c0;
+  padding:2px;
+  font-family: Century Gothic;;
+  font-size: 9pt;
+  color: #000000;
+  direction: auto;
+}
+#opera td:nth-child(2) {
+  font-weight: bold;
+  font-size: 11pt;
+}
+#opera td:nth-child(4) {
+  text-align: center;
+}
+#opera td:nth-child(5) {
+  text-align: center;
+}
+#opera td:nth-child(6) {
+  text-align: center;
+}
+#opera td:nth-child(7) {
+  text-align: center;
+}
+#opera td:nth-child(8) {
+  text-align: center;
+}
+#opera td:nth-child(11) {
+  font-weight: bold;
+}
+#opera img {
+  border-radius: 8px;
+}
+#opera tr:nth-child(odd){
+  background-color:   #f2f3f4;
+    }
+#opera tr:nth-child(even){
+  background-color: white;
+}
