@@ -87,8 +87,8 @@ document.write(`
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Bandas Sonoras<br>Cast Albums</a>
 <div class="subnav-content">
-<a href="agyg.html"><img src="images/misc/agyg2.png" height="35px"></a>
 <a href="annie.html"><img src="images/misc/annie2.png" height="35px"></a>
+<a href="agyg.html"><img src="images/misc/agyg2.png" height="35px"></a>
 <a href="blood.html"><img src="images/misc/blood2.png" height="35px"></a>
 <a href="cabaret.html"><img src="images/misc/cabaret2.png" height="35px"></a>
 <a href="cage.html"><img src="images/misc/cage2.png" height="35px"></a>
@@ -141,6 +141,7 @@ document.write(`
 <a href="tanz.html"><img src="images/misc/tanz2.png" height="35px"></a>
 <a href="war.html"><img src="images/misc/war2.png" height="35px"></a>
 <a href="west.html"><img src="images/misc/west2.png" height="35px"></a>
+<a href="wicked.html"><img src="images/misc/wicked2.png" height="35px"></a>
 <a href="wizard.html"><img src="images/misc/wizard2.png" height="35px"></a>
 <p>
 <a href="Cast Albums 0.html">#</a>
