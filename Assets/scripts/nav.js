@@ -80,6 +80,7 @@ document.write(`
 <div class="dropdown-content">
 <a href="disneymovie.html">Bandas Sonoras<br>Soundtracks</a>
 <a href="disneycast.html">Musicales<br>Musicals</a>
+<a href="disneycomp.html">Compilaciónes<br>Compilations</a>
 </div>
 
 <li><a class="active" href="demo.html">Grabaciones Demo<br>Demo Recordings</a>
