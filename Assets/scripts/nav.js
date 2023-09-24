@@ -4,7 +4,7 @@ document.write(`
 
 <li><a class="active3" href="contact.html">&nbsp;<img src="images/misc/mail.png">&nbsp;</a>
 <li><a class="active" href="new.html">Nuevas adiciones<br>New Additions</a>
-<li><a class="active" href="notes.html">Notas sobre las listas<br>Noteson the liostings</a>
+<li><a class="active" href="notes.html">Notas sobre las listas<br>Notes on the listings</a>
 <li><a class="active" href="guide.html">Guía de intercambio<br>Trade Guidelines</a>
 <li class="active"><a href="links.html">Enlaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Links</a>
 <li class="active"><a href="wants.html">Lista de Deseos<br>Wants&nbsp;List</a><li>
