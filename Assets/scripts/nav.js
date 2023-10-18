@@ -10,7 +10,7 @@ document.write(`
 <li class="active"><a href="wants.html">Lista de Deseos<br>Wants&nbsp;List</a><li>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Libros&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Books</a>
+<a href="javascript:void(0)" class="dropbtn">Libros&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Books</a>
 <div class="dropdown-content">
 <a href="ebooks.html">Libros electronicos<br>eBooks</a>
 <a href="audiobooks.html">Audiolibros<br>Audiobooks</a>
@@ -26,7 +26,7 @@ document.write(`
 </div>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Otros Vídeos&nbsp;&nbsp;<br>Other Videos</a>
+<a href="javascript:void(0)" class="dropbtn">Otros Vídeos&nbsp;&nbsp;&nbsp;<br>Other Videos</a>
 <div class="dropdown-content">
 <a href="musicvid.html">Vídeos de Música<br>Music Videos</a>
 <a href="movies.html">Películas<br>Movies</a>
