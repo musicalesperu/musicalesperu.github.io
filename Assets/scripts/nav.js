@@ -2,15 +2,26 @@ document.write(`
 
 <ul>
 
-<li><a class="active3" href="contact.html">&nbsp;<img src="images/misc/mail.png">&nbsp;</a>
-<li><a class="active" href="new.html">Nuevas adiciones<br>New Additions</a>
-<li><a class="active" href="notes.html">Notas sobre las listas<br>Notes on the listings</a>
-<li><a class="active" href="guide.html">Guía de intercambio<br>Trade Guidelines</a>
-<li class="active"><a href="links.html">Enlaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Links</a>
-<li class="active"><a href="wants.html">Lista de Deseos<br>Wants&nbsp;List</a><li>
+<li><a href="#.html"></li></a>
+<li><a href="#.html"></li></a>
+<li><a href="#.html"></li></a>
+<li><a href="#.html"></li></a>
+
+
+<li><a href="main.html"><img src="images/misc/home.png"></li></a>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Libros&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Books</a>
+<a href="javascript:void(0)" class="dropbtn">Información<br>Information</a>
+<div class="dropdown-content">
+<a href="new.html">Nuevas adiciones<br>New Additions</a>
+<a href="notes.html">Notas sobre las listas<br>Notes on the listings</a>
+<a href="guide.html">Guía de intercambio<br>Trade Guidelines</a>
+<a href="wants.html">Lista de Deseos<br>Wants List</a>
+<a href="contact.html">Contactarme<br>Contact Me</a>
+</div>
+
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Libros<br>Books</a>
 <div class="dropdown-content">
 <a href="ebooks.html">Libros electronicos<br>eBooks</a>
 <a href="audiobooks.html">Audiolibros<br>Audiobooks</a>
@@ -26,13 +37,13 @@ document.write(`
 </div>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Otros Vídeos&nbsp;&nbsp;&nbsp;<br>Other Videos</a>
+<a href="javascript:void(0)" class="dropbtn">Otros Vídeos<br>Other Videos</a>
 <div class="dropdown-content">
-<a href="musicvid.html">Vídeos de Música<br>Music Videos</a>
 <a href="movies.html">Películas<br>Movies</a>
 <a href="lgbt.html">Películas de temática gay<br>Gay Themed Movies</a>
 <a href="tvshows.html">Telévision<br>TV Shows</a>
 <a href="docs2.html">Documentales de largometraje<br>Feature Documentaries</a>
+<a href="musicvid.html">Vídeos de Música<br>Music Videos</a>
 </div>
 
 
@@ -68,7 +79,7 @@ document.write(`
 </div>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Relacionado de Teatro<br>Theatre Related&nbsp;&nbsp;</a>
+<a href="javascript:void(0)" class="dropbtn">Relacionado de Teatro<br>Theatre Related</a>
 <div class="dropdown-content">
 <a href="vocalists.html">Vocalistas<br>Vocalists</a>
 <a href="compilations.html">Compilaciónes<br>Compilations</a>
@@ -86,7 +97,7 @@ document.write(`
 <li><a class="active" href="demo.html">Grabaciones Demo<br>Demo Recordings</a>
 
 <div class="subnav">
-<a href="javascript:void(0)" class="dropbtn">Bandas Sonoras<br>Cast Albums</a>
+<a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
 <div class="subnav-content">
 <a href="annie.html"><img src="images/misc/annie2.png" height="35px"></a>
 <a href="agyg.html"><img src="images/misc/agyg2.png" height="35px"></a>
@@ -200,8 +211,10 @@ document.write(`
 <a href="boots4.html">R - Z</a>
 </div>
 </div>
+<li><a href="#.html"></li></a>
 
-<li><a class="active2" href="main.html"><img src="images/misc/home.png"></li></a>
+<img src="images/misc/logo2.png">
 
+</ul>
 
 `);
