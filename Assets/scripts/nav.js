@@ -2,11 +2,6 @@ document.write(`
 
 <ul>
 
-<li><a href="#.html"></li></a>
-<li><a href="#.html"></li></a>
-<li><a href="#.html"></li></a>
-<li><a href="#.html"></li></a>
-
 
 <li><a href="main.html"><img src="images/misc/home.png"></li></a>
 
@@ -95,6 +90,8 @@ document.write(`
 </div>
 
 <li><a class="active" href="demo.html">Grabaciones Demo<br>Demo Recordings</a>
+
+<li><a class="active" href="moviemusicals.html">Películas Musicales<br>Musical Films</a>
 
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
