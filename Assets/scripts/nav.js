@@ -2,7 +2,6 @@ document.write(`
 
 <ul>
 
-
 <li><a href="main.html"><img src="images/misc/home.png"></li></a>
 
 <li class="dropdown">
@@ -88,6 +87,8 @@ document.write(`
 <a href="disneycast.html">Musicales<br>Musicals</a>
 <a href="disneycomp.html">Compilaciónes<br>Compilations</a>
 </div>
+
+<li><a class="active" href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a>
 
 <li><a class="active" href="demo.html">Grabaciones Demo<br>Demo Recordings</a>
 
