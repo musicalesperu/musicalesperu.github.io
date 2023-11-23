@@ -148,6 +148,7 @@ document.write(`
 <a href="starlight.html"><img src="images/misc/starlight2.png" height="35px"></a>
 <a href="sunset.html"><img src="images/misc/sunset2.png" height="35px"></a>
 <a href="sweeney.html"><img src="images/misc/sweeney2.png" height="35px"></a>
+<a href="charity.html"><img src="images/misc/charity2.png" height="35px"></a>
 <a href="tanz.html"><img src="images/misc/tanz2.png" height="35px"></a>
 <a href="war.html"><img src="images/misc/war2.png" height="35px"></a>
 <a href="west.html"><img src="images/misc/west2.png" height="35px"></a>
