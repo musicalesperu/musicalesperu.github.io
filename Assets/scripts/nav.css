@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Belleza');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 
 .navbar {
@@ -25,8 +25,8 @@ ul {
   list-style-type: none;
   margin: 0;
   overflow: hidden;
-  font-family: Belleza;;
-  font-size: 10.3pt;
+  font-family: Quicksand;;
+  font-size: 10.5pt;
   color: white;
   background-color: #black;
   height: 38px;

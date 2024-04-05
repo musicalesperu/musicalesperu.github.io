@@ -210,9 +210,6 @@ document.write(`
 <a href="boots4.html">R - Z</a>
 </div>
 </div>
-<li><a href="#.html"></li></a>
-
-<img src="images/misc/logo2.png">
 
 </ul>
 
