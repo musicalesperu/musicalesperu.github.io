@@ -154,6 +154,7 @@ document.write(`
 <a href="west.html"><img src="images/misc/west2.png" height="35px"></a>
 <a href="wicked.html"><img src="images/misc/wicked2.png" height="35px"></a>
 <a href="wizard.html"><img src="images/misc/wizard2.png" height="35px"></a>
+<a href="mcoll.html"><img src="images/misc/mcoll2.png" height="35px"></a>
 <p>
 <a href="Cast Albums 0.html">#</a>
 <a href="Cast Albums A.html">A</a>
