@@ -59,7 +59,7 @@ document.write(`
 <a href="operetta.html">Opereta<br>Operetta</a>
 <a href="classical.html">Música Clasica<br>Classical Music</a>
 <a href="vocalists2.html">Vocalistas<br>Vocalists</a>
-<a href="operavid.html">Vídoes de Opéra<br>Opera Videos</a>
+<a href="operavid.html">Vídeos de Opéra<br>Opera Videos</a>
 </div>
 
 <li class="dropdown">
@@ -121,11 +121,11 @@ document.write(`
 <a href="hair.html"><img src="images/misc/hair2.png" height="35px"></a>
 <a href="hedwig.html"><img src="images/misc/hedwig2.png" height="35px"></a>
 <a href="dolly.html"><img src="images/misc/dolly.png" height="35px"></a>
-<a href="jcs.html"><img src="images/misc/jcs2.png" height="35px"></a>
 <a href="jekyll.html"><img src="images/misc/jekyll2.png" height="35px"></a>
+<a href="jcs.html"><img src="images/misc/jcs2.png" height="35px"></a>
 <a href="joseph.html"><img src="images/misc/joseph2.png" height="35px"></a>
-<a href="kate.html"><img src="images/misc/kate2.png" height="35px"></a>
 <a href="king.html"><img src="images/misc/king2.png" height="35px"></a>
+<a href="kate.html"><img src="images/misc/kate2.png" height="35px"></a>
 <a href="alnm.html"><img src="images/misc/almn2.png" height="35px"></a>
 <a href="shop.html"><img src="images/misc/shop2.png" height="35px"></a>
 <a href="mamma.html"><img src="images/misc/mamma2.png" height="35px"></a>
@@ -138,8 +138,8 @@ document.write(`
 <a href="nunsense.html"><img src="images/misc/nunsense2.png" height="35px"></a>
 <a href="oklahoma.html"><img src="images/misc/oklahoma2.png" height="35px"></a>
 <a href="oliver.html"><img src="images/misc/oliver2.png" height="35px"></a>
-<a href="porgy.html"><img src="images/misc/porgy2.png" height="35px"></a>
 <a href="poto.html"><img src="images/misc/poto2.png" height="35px"></a>
+<a href="porgy.html"><img src="images/misc/porgy2.png" height="35px"></a>
 <a href="rebecca.html"><img src="images/misc/rebecca2.png" height="35px"></a>
 <a href="rent.html"><img src="images/misc/rent.png" height="35px"></a>
 <a href="rocky.html"><img src="images/misc/rocky2.png" height="35px"></a>
