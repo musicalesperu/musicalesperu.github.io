@@ -97,7 +97,7 @@ document.write(`
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
 <div class="subnav-content">
-<a href="annie.html"><img src="images/misc/annie2.png" height="35px"></a>
+<center><a href="annie.html"><img src="images/misc/annie2.png" height="35px"></a>
 <a href="agyg.html"><img src="images/misc/agyg2.png" height="35px"></a>
 <a href="blood.html"><img src="images/misc/blood2.png" height="35px"></a>
 <a href="brig.html"><img src="images/misc/brig2.png" height="35px"></a>
@@ -179,13 +179,13 @@ document.write(`
 <a href="Cast Albums T.html">T</a>
 <a href="Cast Albums UV.html">UV</a>
 <a href="Cast Albums W.html">W</a>
-<a href="Cast Albums XYZ.html">XYZ</a>
+<a href="Cast Albums XYZ.html">XYZ</a></center>
 </div>
 </div>
 
 <div class="subnav"><a href="javascript:void(0)" class="dropbtn">Audios no comerciales<br>Non-Commercial Audios</a>
 <div class="subnav-content">
-<a href="bloodboots.html"><img src="images/misc/blood2.png" height="35px"></a>
+<center><a href="bloodboots.html"><img src="images/misc/blood2.png" height="35px"></a>
 <a href="cageboots.html"><img src="images/misc/cage2.png" height="35px"></a>
 <a href="catsboots.html"><img src="images/misc/cats2.png" height="35px"></a>
 <a href="chessboots.html"><img src="images/misc/chess2.png" height="35px"></a>
@@ -209,7 +209,8 @@ document.write(`
 <a href="boots1.html"># - E</a>
 <a href="boots2.html">F - K</a>
 <a href="boots3.html">L - Q</a>
-<a href="boots4.html">R - Z</a>
+<a href="boots4.html">R - Z</a></center>
+
 </div>
 </div>
 
