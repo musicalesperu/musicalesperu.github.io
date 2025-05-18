@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Marcellus');
+@import url('https://fonts.googleapis.com/css?family=Century Gothic');
 
 
 .navbar {
@@ -25,7 +25,7 @@ ul {
   list-style-type: none;
   margin: 0;
   overflow: hidden;
-  font-family: Marcellus;;
+  font-family: Century Gothic;;
   font-size: 9.8px;
   color: white;
   background-color: #black;
