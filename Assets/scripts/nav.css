@@ -68,6 +68,7 @@ li .right {
   position: absolute;
   background-color: #4d4d4d;
   color:  white;
+  width: 130px;
   z-index: auto;
 }
 .dropdown-content a {
