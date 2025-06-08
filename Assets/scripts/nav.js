@@ -199,7 +199,7 @@ document.write(`
 <div class="dropdown-content">
 <a href="musicals.html">Vídeos comerciales<br>Commercial Videos</a>
 <a href="bootleg.html">Vídeos no comerciales<br>Non-Commercial Videos</a>
-<a href="concerts.html">Concerts<br>Conciertos</a>&nbsp;&nbsp;&nbsp;
+<a href="concerts.html">Concerts<br>Conciertos</a>
 <a href="docs.html">Documentos<br>Documentaries</a>
 <a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a>
 </div>
