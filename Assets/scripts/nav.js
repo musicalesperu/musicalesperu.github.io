@@ -13,6 +13,7 @@ document.write(`
 <a href="agyg.html"><img src="images/misc/agyg2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="aspects.html"><img src="images/misc/aspects2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="anything.html"><img src="images/misc/anything2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="avenue.html"><img src="images/misc/avenue2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="blood.html"><img src="images/misc/blood2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="boy.html"><img src="images/misc/boy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="birdie.html"><img src="images/misc/birdie2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -26,6 +27,7 @@ document.write(`
 <a href="chicago.html"><img src="images/misc/chicago2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="chorus.html"><img src="images/misc/chorus2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="company.html"><img src="images/misc/company2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="evan.html"><img src="images/misc/evan2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="dream.html"><img src="images/misc/dream2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="3penny.html"><img src="images/misc/3penny2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="sisi.html"><img src="images/misc/sisi2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -36,14 +38,16 @@ document.write(`
 <a href="finian.html"><img src="images/misc/finian2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="flower.html"><img src="images/misc/flower2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="follies.html"><img src="images/misc/follies2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="funny.html"><img src="images/misc/funny2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="forbidden.html"><img src="images/misc/forbid2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="funny.html"><img src="images/misc/funny2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="forum.html"><img src="images/misc/forum2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="godspell.html"><img src="images/misc/godspell2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="grease.html"><img src="images/misc/grease2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="guys.html"><img src="images/misc/guys2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="gypsy.html"><img src="images/misc/gypsy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="hair.html"><img src="images/misc/hair2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="hairspray.html"><img src="images/misc/hairspray2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="hamilton.html"><img src="images/misc/hamilton2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="hedwig.html"><img src="images/misc/hedwig2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="dolly.html"><img src="images/misc/dolly2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="business.html"><img src="images/misc/business2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -62,12 +66,14 @@ document.write(`
 <a href="mame.html"><img src="images/misc/mame2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mamma.html"><img src="images/misc/mamma2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mancha.html"><img src="images/misc/molm2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="me.html"><img src="images/misc/me2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="lesmis.html"><img src="images/misc/lesmis2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="saigon.html"><img src="images/misc/saigon2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mozart.html"><img src="images/misc/mozart2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="musicman.html"><img src="images/misc/musicman2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mfl.html"><img src="images/misc/mfl2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="normal.html"><img src="images/misc/normal2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="nine.html"><img src="images/misc/nine2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="nddp.html"><img src="images/misc/nddp2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="nunsense.html"><img src="images/misc/nunsense2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="oklahoma.html"><img src="images/misc/oklahoma2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -77,6 +83,7 @@ document.write(`
 <a href="pal.html"><img src="images/misc/pal2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="poto.html"><img src="images/misc/poto2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="piaf.html"><img src="images/misc/piaf2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="pippin.html"><img src="images/misc/pippin2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="porgy.html"><img src="images/misc/porgy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="promises.html"><img src="images/misc/promises2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="rebecca.html"><img src="images/misc/rebecca2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -86,8 +93,10 @@ document.write(`
 <a href="boat.html"><img src="images/misc/boat2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="siebe.html"><img src="images/misc/siebe2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="sister.html"><img src="images/misc/sister2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="song.html"><img src="images/misc/song2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="som.html"><img src="images/misc/som2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="pacific.html"><img src="images/misc/pacific2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="spam.html"><img src="images/misc/spam2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="spring.html"><img src="images/misc/spring2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="starlight.html"><img src="images/misc/starlight2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="starmania.html"><img src="images/misc/starmania2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -101,10 +110,10 @@ document.write(`
 <a href="wewill.html"><img src="images/misc/wewill2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="west.html"><img src="images/misc/west2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wicked.html"><img src="images/misc/wicked2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="wiz.html"><img src="images/misc/wiz2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wizard.html"><img src="images/misc/wizard2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="yagmcb.html"><img src="images/misc/yagmcb2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mcoll.html"><img src="images/misc/mcoll2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<br>
 <a href="Cast Albums 0.html">#</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums A.html">A</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums B.html">B</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
