@@ -74,6 +74,7 @@ document.write(`
 <a href="mfl.html"><img src="images/misc/mfl2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="normal.html"><img src="images/misc/normal2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="nine.html"><img src="images/misc/nine2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="nanette.html"><img src="images/misc/nanette2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="nddp.html"><img src="images/misc/nddp2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="nunsense.html"><img src="images/misc/nunsense2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="oklahoma.html"><img src="images/misc/oklahoma2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
