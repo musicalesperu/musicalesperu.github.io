@@ -180,12 +180,6 @@ document.write(`
 </div>
 </div>
 
-<li><a href="moviemusicals.html">Películas Musicales<br>Musical Films</a></li>
-
-<li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
-
-<li><a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a></li>
-
 <li class="dropdown"></a>
 <a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney2.png" height="25px"></a>
 <div class="dropdown-content">
@@ -195,79 +189,72 @@ document.write(`
 </div>
 </li>
 
-<li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn">Relacionado de Teatro<br>Theatre Related</a>
-<div class="dropdown-content">
-<a href="vocalists.html">Vocalistas<br>Vocalists</a>
-<a href="compilations.html">Compilaciónes<br>Compilations</a>
-<a href="plays.html">Obras de Teatro<br>Theatre Plays</a>
-</div>
-</li>
+<li><a href="moviemusicals.html">Películas Musicales<br>Musical Films</a></li>
 
-<li class="dropdown"></a>
+<li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
+
+<li><a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a></li>
+
+<li><a href="vocalists.html">Vocalistas<br>Vocalists</a></li>
+
+<li><a href="compilations.html">Compilaciónes<br>Compilations</a></li>
+
+
+<li class="dropdown">
 <a href="javascript:void(0)" class="dropbtn">Vídeos de Teatro<br>Theatre Videos</a>
 <div class="dropdown-content">
 <a href="musicals.html">Vídeos comerciales<br>Commercial Videos</a>
-<a href="bootleg.html">Vídeos no comerciales<br>Non-Commercial Videos</a>
 <a href="concerts.html">Concerts<br>Conciertos</a>
 <a href="docs.html">Documentos<br>Documentaries</a>
 <a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a>
 </div>
 </li>
 
+
+<div class="subnav"><a href="javascript:void(0)" class="dropbtn">Vídeos no comerciales<br>Non-Commercial Videos</a>
+<div class="subnav-content">
+<center>
+<a href="bloodvid.html"><img src="images/misc/blood2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="cabaretvid.html"><img src="images/misc/cabaret2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="catsvid.html"><img src="images/misc/cats2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="cagevid.html"><img src="images/misc/cage2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="chessvid.html"><img src="images/misc/chess2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="chicagovid.html"><img src="images/misc/chicago2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="sisivid.html"><img src="images/misc/sisi2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="evitavid.html"><img src="images/misc/evita2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="fiddlervid.html"><img src="images/misc/fiddler2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="jekyllvid.html"><img src="images/misc/jekyll2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="jcsvid.html"><img src="images/misc/jcs2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="josephvid.html"><img src="images/misc/joseph2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="manchavid.html"><img src="images/misc/molm2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="lesmisvid.html"><img src="images/misc/lesmis2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="saigonvid.html"><img src="images/misc/saigon2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="potovid.html"><img src="images/misc/poto2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="rebeccavid.html"><img src="images/misc/rebecca2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="starlightvid.html"><img src="images/misc/starlight2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="sunsetvid.html"><img src="images/misc/sunset2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="sweeneyvid.html"><img src="images/misc/sweeney2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="tanzvid.html"><img src="images/misc/tanz2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="bootsvid1.html"># - L</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="bootsvid2.html">M- Z</a></center>
+</div>
+</div>
+
+<div>
 <li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn">Opéra y clasica<br>Opera & Classical</a>
+<a href="javascript:void(0)" class="dropbtn">Partituras y libretos<br>Scores & Libretti</a>
 <div class="dropdown-content">
-<a href="opera.html">Opéra<br>Opera</a>
-<a href="operetta.html">Opereta<br>Operetta</a>
-<a href="vocalists2.html">Vocalistas<br>Vocalists</a>
-<a href="classical.html">Música Clasica<br>Classical Music</a>
-<a href="operavid.html">Vídeos de Opéra<br>Opera Videos</a>
+<a href="scores.html">Partituras<br>Scores</a>
+<a href="libretti.html">Libretos<br>Libretti</a>
 </div>
 </li>
 
-<li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn">Otro música<br>Other Music</a>
-<div class="dropdown-content">
-<a href="vocalists3.html">Vocalistas & Grupos<br>Vocalists & Groups</a>
-<a href="latina.html">Música Latina<br>Latin Music</a>
-<a href="francaise.html">Música Frances<br>French Music</a>
-<a href="compilations2.html">Compilaciónes<br>Compilations</a>
-<a href="comedy.html">Comedia<br>Comedy</a>
-<a href="christmas.html">Música Navidad<br>Christmas Music</a>
-</div>
-</li>
+<li><a href="wants.html">Lista de Deseos<br>Wants List</a></li>
 
-<li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn">Otro vídeo<br>Other Video</a>
-<div class="dropdown-content">
-<a href="musicvid.html">Vídeos de Música<br>Music Videos</a>
-<a href="movies.html">Películas<br>Movies</a>
-<a href="lgbt.html">Películas de temática gay<br>Gay Themed Movies</a>
-<a href="docs2.html">Documentales de largometraje<br>Feature Documentaries</a>
-<a href="tvshows.html">Telévision<br>TV Shows</a>
-</div>
-</li>
+<li><a href="notes2.html">Notas<br>Notes</a></li>
+<li><a href="guide.html">Guía<br>Guidelines</a></li>
 
-<li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn">Material escrito<br>Written Material</a>
-<div class="dropdown-content">
-<a href="scores.html">Partituras Musicales<br>Musical Scores</a>
-<a href="libretti.html">Libretos Muscales<br>Musical Libretti</a>
-<a href="scores2.html">Partituras Opéra<br>Opera Scores</a>
-<a href="libretti2.html">Libretos Opéra<br>Opera Libretti</a>
-<a href="ebooks.html">Libros electronicos<br>eBooks</a>
-<a href="audiobooks.html">Audiolibros<br>Audiobooks</a>
-</div>
-</li>
-
-<li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn">Notas y guía<br>Notes & Guidelines</a>
-<div class="dropdown-content">
-<a href="notes2.html">Notas sobre las listas<br>Notes on the listings</a>
-<a href="guide.html">Guía de intercambio<br>Trade Guidelines</a>
-<a href="wants.html">Lista de Deseos<br>Wants List</a>
-<a href="contact.html">Contactarme<br>Contact Me</a>
+<li><a href="contact.html"><img src="images/misc/mail.png" height="25px"></li></a>
 </div>
 </li>
 

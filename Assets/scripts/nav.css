@@ -5,7 +5,7 @@
 .navbar {
   position: fixed;
   top: 0;
-  float: right;
+  float: left;
   display: block;
   left: 0px;    
   right: 0px;
@@ -27,7 +27,7 @@ ul {
   margin: 0;
   overflow: hidden;
   font-family: Marcellus;;
-  font-size: 9.7px;
+  font-size: 9.4px;
   color: white;
   background-color: #black;
   height: 30px;
