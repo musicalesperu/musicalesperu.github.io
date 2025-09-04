@@ -2,7 +2,7 @@ document.write(`
 
 <ul>
 
-<li><a href="main2.html"><img src="images/misc/home.png" height="25px"></li></a>
+<li><a href="index2.html"><img src="images/misc/home.png" height="25px"></li></a>
 
 <li><a href="vocalists3.html">Vocalistas & Grupos<br>Vocalists & Groups</a></li>
 <li><a href="latina.html">Música Latina<br>Latin Music</a></li>
@@ -44,7 +44,7 @@ document.write(`
 <li><a href="ebooks.html">eLibros<br>eBooks</a></li>
 
 
-<li><a href="notes2.html">Notas<br>Notes</a></li>
+<li><a href="notes.html">Notas<br>Notes</a></li>
 <li><a href="guide.html">Guía<br>Guidelines</a></li>
 
 <li><a href="contact.html"><img src="images/misc/mail.png" height="25px"></li></a>

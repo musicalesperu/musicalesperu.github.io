@@ -2,7 +2,8 @@ document.write(`
 
 <ul>
 
-<li><a href="main.html"><img src="images/misc/home.png" height="25px"></li></a>
+
+<li><a href="index2.html"><img src="images/misc/home.png" height="25px"></li></a>
 
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
@@ -251,7 +252,7 @@ document.write(`
 
 <li><a href="wants.html">Lista de Deseos<br>Wants List</a></li>
 
-<li><a href="notes2.html">Notas<br>Notes</a></li>
+<li><a href="notes.html">Notas<br>Notes</a></li>
 <li><a href="guide.html">Guía<br>Guidelines</a></li>
 
 <li><a href="contact.html"><img src="images/misc/mail.png" height="25px"></li></a>
