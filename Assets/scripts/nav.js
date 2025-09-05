@@ -190,7 +190,7 @@ document.write(`
 </div>
 </li>
 
-<li><a href="moviemusicals.html">Películas Musicales<br>Musical Films</a></li>
+<li><a href="moviemusicals.html">Bandas Sonoras<br>Soundtracks</a></li>
 
 <li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
 
@@ -202,7 +202,7 @@ document.write(`
 
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Vídeos de Teatro<br>Theatre Videos</a>
+<a href="javascript:void(0)" class="dropbtn">Vídeos comerciales<br>Commercial Videos</a>
 <div class="dropdown-content">
 <a href="musicals.html">Vídeos comerciales<br>Commercial Videos</a>
 <a href="concerts.html">Concerts<br>Conciertos</a>
