@@ -115,7 +115,8 @@ document.write(`
 <a href="wiz.html"><img src="images/misc/wiz2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wizard.html"><img src="images/misc/wizard2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="yagmcb.html"><img src="images/misc/yagmcb2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="mcoll.html"><img src="images/misc/mcoll2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="mcoll.html"><img src="images/misc/mcoll2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="moviemusicals.html"><img src="images/misc/soundtrack.png" height="30px">&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums 0.html">#</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums A.html">A</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums B.html">B</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -138,7 +139,7 @@ document.write(`
 <a href="Cast Albums T.html">T</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums UV.html">UV</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums W.html">W</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="Cast Albums XYZ.html">XYZ</a></center>
+<a href="Cast Albums XYZ.html">XYZ</a></a></center>
 </div>
 </div>
 
@@ -182,15 +183,13 @@ document.write(`
 </div>
 
 <li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney2.png" height="25px"></a>
+<a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="25px"></a>
 <div class="dropdown-content">
 <a href="disneymovie.html">Bandas Sonoras<br>Soundtracks</a>
 <a href="disneycast.html">Musicales<br>Musicals</a>
 <a href="disneycomp.html">Compilaciónes<br>Compilations</a>
 </div>
 </li>
-
-<li><a href="moviemusicals.html">Bandas Sonoras<br>Soundtracks</a></li>
 
 <li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
 
@@ -200,11 +199,11 @@ document.write(`
 
 <li><a href="compilations.html">Compilaciónes<br>Compilations</a></li>
 
+<li><a href="musicals.html">Vídeos comerciales<br>NCommercial Videos</a></li>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Vídeos comerciales<br>Commercial Videos</a>
+<a href="javascript:void(0)" class="dropbtn">Otros vídeos<br>Other Videos</a>
 <div class="dropdown-content">
-<a href="musicals.html">Musicales<br>Musicals</a>
 <a href="concerts.html">Concerts<br>Conciertos</a>
 <a href="docs.html">Documentos<br>Documentaries</a>
 <a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a>
