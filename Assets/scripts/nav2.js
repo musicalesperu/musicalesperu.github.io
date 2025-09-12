@@ -28,7 +28,6 @@ document.write(`
 <a href="lgbt.html">Películas de temática gay<br>Gay Themed Movies</a>
 <a href="docs2.html">Documentales de largometraje<br>Feature Documentaries</a>
 <a href="tvshows.html">Telévision<br>TV Shows</a>
-<a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a>
 </div>
 </li>
 
