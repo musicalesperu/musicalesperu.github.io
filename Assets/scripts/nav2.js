@@ -2,7 +2,7 @@ document.write(`
 
 <ul>
 
-<li><a href="main2.html"><img src="images/misc/home.png" height="25px"></li></a>
+<li><a href="index2.html"><img src="images/misc/home.png" height="25px"></li></a>
 
 <li><a href="vocalists3.html">Vocalistas & Grupos<br>Vocalists & Groups</a></li>
 <li><a href="latina.html">Música Latina<br>Latin Music</a></li>
