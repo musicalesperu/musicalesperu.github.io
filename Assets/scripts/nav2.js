@@ -2,8 +2,8 @@ document.write(`
 
 <ul>
 
-<li><a href="index2.html"><img src="images/misc/logo3.png" height="25px"></li></a>
-<li><a href="main2.html"><img src="images/misc/home.png" height="25px"></li></a>
+<div title="Start Page"><li><a href="index2.html"><img src="images/misc/logo3.png" height="25px"></li></a></div>
+<div title="Section Main Page"><li><a href="main2.html"><img src="images/misc/home.png" height="25px"></li></a></div>
 
 <li><a href="vocalists3.html">Vocalistas & Grupos<br>Vocalists & Groups</a></li>
 <li><a href="latina.html">Música Latina<br>Latin Music</a></li>
@@ -47,7 +47,8 @@ document.write(`
 <li><a href="notes.html">Notas<br>Notes</a></li>
 <li><a href="guide.html">Guía<br>Guidelines</a></li>
 
-<li><a href="contact.html"><img src="images/misc/mail.png" height="25px"></li></a>
+<div title="Contact Me"><li><a href="mailto:musicalesperu@gmail.com?subject=Trade?"><img src="images/misc/mail.png" height="25px"></li></a></div>
+
 </div>
 </li>
 
