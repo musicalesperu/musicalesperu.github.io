@@ -191,6 +191,7 @@ document.write(`
 </div>
 </li>
 
+
 <li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
 
 <li><a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a></li>
@@ -201,14 +202,12 @@ document.write(`
 
 <li><a href="musicals.html">Vídeos comerciales<br>Commercial Videos</a></li>
 
-<li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Otros vídeos<br>Other Videos</a>
-<div class="dropdown-content">
-<a href="concerts.html">Concerts<br>Conciertos</a>
-<a href="docs.html">Documentos<br>Documentaries</a>
-<a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a>
-</div>
-</li>
+<li><a href="concerts.html">Concerts<br>Conciertos</a></li>
+
+<li><a href="docs.html">Documentos<br>Documentaries</a></li>
+
+<li><a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a></li>
+
 
 
 <div class="subnav"><a href="javascript:void(0)" class="dropbtn">Vídeos no comerciales<br>Non-Commercial Videos</a>
@@ -250,12 +249,6 @@ document.write(`
 </li>
 
 <li><a href="wants.html">Lista de Deseos<br>Wants List</a></li>
-
-<li><a href="notes.html">Notas<br>Notes</a></li>
-<li><a href="guide.html">Guía<br>Guidelines</a></li>
-
-<div title="Contact Me"><li><a href="mailto:musicalesperu@gmail.com?subject=Trade?"><img src="images/misc/mail.png" height="25px"></li></a></div>
-
 </div>
 </li>
 

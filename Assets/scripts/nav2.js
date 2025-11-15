@@ -9,14 +9,28 @@ document.write(`
 <li><a href="latina.html">Música Latina<br>Latin Music</a></li>
 <li><a href="francaise.html">Música Frances<br>French Music</a></li>
 <li><a href="compilations2.html">Compilaciónes<br>Compilations</a></li>
-<li><a href="comedy.html">Comedia<br>Comedy</a></li>
 <li><a href="christmas.html">Música de Navidad<br>Christmas Music</a></li>
-<li><a href="plays.html">Obras de Teatro<br>Theatre Plays</a></li>
+
+<li class="dropdown"></a>
+<a href="javascript:void(0)" class="dropbtn">Pablara hablada<br>Spoken Word</a>
+<div class="dropdown-content">
+<a href="plays.html">Obras de Teatro<br>Theatre Plays</a>
+<a href="comedy.html">Comedia<br>Comedy</a>
+<a href="audiobooks.html">Audiolibros<br>Audiobooks</a>
+<a href="audiobooks.html">Audiolibros<br>Audiobooks</a>
+</div>
+</li>
+<li></li>
+
+
 <li><a href="opera.html">Opéra<br>Opera</a></li>
 <li><a href="operetta.html">Opereta<br>Operetta</a></li>
 <li><a href="vocalists2.html">Vocalistas de Opéra<br>Opera Vocalists</a></li>
 <li><a href="classical.html">Música Clasica<br>Classical Music</a></li>
-<li><a href="audiobooks.html">Audiolibros<br>Audiobooks</a></li>
+<li><a href="movies.html">Películas<br>Movies</a></li>
+<li><a href="lgbt.html">Películas LGBT<br>LGBT Movies</a></li>
+<li><a href="docs2.html">Documentales<br>Documentaries</a></li>
+<li><a href="tvshows.html">Telévision<br>TV Shows</a></li>
 
 
 
@@ -25,10 +39,6 @@ document.write(`
 <div class="dropdown-content">
 <a href="concerts2.html">Conciertos<br>Concerts</a>
 <a href="operavid.html">Vídeos de Opéra<br>Opera Videos</a>
-<a href="movies.html">Películas<br>Movies</a>
-<a href="lgbt.html">Películas de temática gay<br>Gay Themed Movies</a>
-<a href="docs2.html">Documentales de largometraje<br>Feature Documentaries</a>
-<a href="tvshows.html">Telévision<br>TV Shows</a>
 </div>
 </li>
 
@@ -42,12 +52,6 @@ document.write(`
 
 
 <li><a href="ebooks.html">eLibros<br>eBooks</a></li>
-
-
-<li><a href="notes.html">Notas<br>Notes</a></li>
-<li><a href="guide.html">Guía<br>Guidelines</a></li>
-
-<div title="Contact Me"><li><a href="mailto:musicalesperu@gmail.com?subject=Trade?"><img src="images/misc/mail.png" height="25px"></li></a></div>
 
 </div>
 </li>
