@@ -29,7 +29,8 @@ p.inset {
 .snowflake {
   color: #fff;
   font-size: 1em;
-  font-family: Arial;
+  font-family: Marcellus;
+  font-size: 25pt;
   text-shadow: 0 0 1px #000;
 }
 
@@ -37,7 +38,7 @@ p.inset {
 /* Demo Purpose Only*/
 .demo {
   font-family: 'Raleway', sans-serif;
-  color:#fff;
+  color: red;
     display: block;
     margin: 0 auto;
     padding: 15px 0;
