@@ -2,8 +2,8 @@ document.write(`
 
 <ul>
 
-<div title="Start Page"><li><a href="index2.html"><img src="images/misc/logo3.png" height="25px"></li></a></div>
-<div title="Section Main Page"><li><a href="main.html"><img src="images/misc/home.png" height="25px"></li></a></div>
+<div title="Pagina de inicio / Start Page"><li><a href="index2.html"><img src="images/misc/logo3.png" height="25px"></li></a></div>
+<div title="Página principal de la sección / Section Main Page"><li><a href="main.html"><img src="images/misc/home.png" height="25px"></li></a></div>
 
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
@@ -182,14 +182,14 @@ document.write(`
 </div>
 </div>
 
-<li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="25px"></a>
-<div class="dropdown-content">
-<a href="disneymovie.html">Bandas Sonoras<br>Soundtracks</a>
-<a href="disneycast.html">Musicales<br>Musicals</a>
-<a href="disneycomp.html">Compilaciónes<br>Compilations</a>
+<div class="subnav"><a href="javascript:void(0)" class="dropbtn"><img src="images/misc/Disney.png" height="25px"></a>
+<div class="subnav-content">
+<center>
+<a href="disneymovie.html"><img src="images/misc/Disney1a.png" height="30px"></a>
+<a href="disneycast.html"><img src="images/misc/Disney2a.png" height="30px"></a>
+<a href="disneycomp.html"><img src="images/misc/Disney3a.png" height="30px"></a>
 </div>
-</li>
+</div>
 
 
 <li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
@@ -205,8 +205,6 @@ document.write(`
 <li><a href="concerts.html">Concerts<br>Conciertos</a></li>
 
 <li><a href="docs.html">Documentos<br>Documentaries</a></li>
-
-<li><a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a></li>
 
 
 
@@ -239,18 +237,9 @@ document.write(`
 </div>
 </div>
 
-<div>
-<li class="dropdown"></a>
-<a href="javascript:void(0)" class="dropbtn">Partituras y libretos<br>Scores & Libretti</a>
-<div class="dropdown-content">
-<a href="scores.html">Partituras<br>Scores</a>
-<a href="libretti.html">Libretos<br>Libretti</a>
-</div>
-</li>
 
-<li><a href="wants.html">Lista de Deseos<br>Wants List</a></li>
-</div>
-</li>
+<li><a href="scores.html">Partituras<br>Scores</a></li>
+<li><a href="libretti.html">Libretos<br>Libretti</a></li>
 
 </ul>
 
