@@ -164,9 +164,9 @@ document.write(`
 <a href="alnmboots.html"><img src="images/misc/almn2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="lndboots.html"><img src="images/misc/lnd2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mammaboots.html"><img src="images/misc/mamma2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="manchaboots.html"><img src="images/misc/molm2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="lesmisboots.html"><img src="images/misc/lesmis2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="saigonboots.html"><img src="images/misc/saigon2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="manchaboots.html"><img src="images/misc/molm2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="nddpboots.html"><img src="images/misc/nddp2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="potoboots.html"><img src="images/misc/poto2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="rockyboots.html"><img src="images/misc/rocky2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
