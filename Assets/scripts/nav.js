@@ -182,12 +182,12 @@ document.write(`
 </div>
 </div>
 
-<div class="subnav"><a href="javascript:void(0)" class="dropbtn"><img src="images/misc/Disney.png" height="25px"></a>
+<div class="subnav"><a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="25px"></a>
 <div class="subnav-content">
 <center>
-<a href="disneymovie.html"><img src="images/misc/Disney1a.png" height="30px"></a>
-<a href="disneycast.html"><img src="images/misc/Disney2a.png" height="30px"></a>
-<a href="disneycomp.html"><img src="images/misc/Disney3a.png" height="30px"></a>
+<a href="disneymovie.html"><img src="images/misc/disney1a.png" height="30px"></a>
+<a href="disneycast.html"><img src="images/misc/disney2a.png" height="30px"></a>
+<a href="disneycomp.html"><img src="images/misc/disney3a.png" height="30px"></a>
 </div>
 </div>
 
