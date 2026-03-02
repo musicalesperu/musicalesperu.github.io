@@ -192,6 +192,8 @@ document.write(`
 </div>
 
 
+<li><a href="soundtracks.html">Bandas Sonoras<br>Soundtracks</a></li>
+
 <li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
 
 <li><a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a></li>
