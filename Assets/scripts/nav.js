@@ -2,8 +2,8 @@ document.write(`
 
 <ul>
 
-<div title="Pagina de inicio / Start Page"><li><a href="index2.html"><img src="images/misc/logo3.png" height="25px"></li></a></div>
-<div title="Página principal de la sección / Section Main Page"><li><a href="main.html"><img src="images/misc/home.png" height="25px"></li></a></div>
+<div><li><a href="main.html"><img src="images/misc/home.png" height="25px"></li></a></div>
+
 
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
@@ -116,6 +116,7 @@ document.write(`
 <a href="wizard.html"><img src="images/misc/wizard2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="yagmcb.html"><img src="images/misc/yagmcb2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mcoll.html"><img src="images/misc/mcoll2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="soundtracks.html"><img src="images/misc/soundtrack.png" height="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums 0.html">#</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums A.html">A</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums B.html">B</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -181,33 +182,37 @@ document.write(`
 </div>
 </div>
 
-<div class="subnav"><a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="25px"></a>
-<div class="subnav-content">
-<center>
-<a href="disneymovie.html"><img src="images/misc/disney1a.png" height="30px"></a>
-<a href="disneycast.html"><img src="images/misc/disney2a.png" height="30px"></a>
-<a href="disneycomp.html"><img src="images/misc/disney3a.png" height="30px"></a>
-</div>
-</div>
-
-
-<li><a href="soundtracks.html">Bandas Sonoras<br>Soundtracks</a></li>
-
 <li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
 
-<li><a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a></li>
 
-<li><a href="vocalists.html">Vocalistas<br>Vocalists</a></li>
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="25px"></a>
+<div class="dropdown-content">
+<a href="disneymovie.html">Bandas Sonoras<br>Soundtracks</a>
+<a href="disneycast.html">Álbumes del elenco<br>Cast Albums</a>
+<a href="disneycomp.html">Compilaciónes<br>Compilations</a>
+</div>
+</li>
 
-<li><a href="compilations.html">Compilaciónes<br>Compilations</a></li>
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Audio relacionado<br>Related Audio</a>
+<div class="dropdown-content">
+<a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a>
+<a href="vocalists.html">Vocalistas<br>Vocalists</a>
+<a href="compilations.html">Compilaciónes<br>Compilations</a>
+</div>
+</li>
 
-<li><a href="musicals.html">Vídeos comerciales<br>Commercial Videos</a></li>
 
-<li><a href="concerts.html">Concerts<br>Conciertos</a></li>
-
-<li><a href="docs.html">Documentos<br>Documentaries</a></li>
-
-
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Vídeos de teatro<br>Theatre Videos</a>
+<div class="dropdown-content">
+<a href="musicals.html">Musicales<br>Musicals</a>
+<a href="concerts.html">Concerts<br>Conciertos</a>
+<a href="docs.html">Documentos<br>Documentaries</a>
+<a href="playsvid.html">Obras de Teatro<br>Theatre Plays</a>
+</div>
+</li>
 
 <div class="subnav"><a href="javascript:void(0)" class="dropbtn">Vídeos no comerciales<br>Non-Commercial Videos</a>
 <div class="subnav-content">
@@ -238,9 +243,59 @@ document.write(`
 </div>
 </div>
 
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Otra Música<br>Other Music</a>
+<div class="dropdown-content">
+<a href="vocalists3.html">Vocalistas y Grupos<br>Vocalists & Groups</a>
+<a href="latina.html">Música Latina<br>Latin Music</a>
+<a href="francaise.html">Música Frances<br>French Music</a>
+<a href="compilations2.html">Compilaciónes<br>Compilations</a>
+<a href="christmas.html">Música de Navidad<br>Christmas Music</a>
 
-<li><a href="scores.html">Partituras<br>Scores</a></li>
-<li><a href="libretti.html">Libretos<br>Libretti</a></li>
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Música Clasica<br>Classical Music</a>
+<div class="dropdown-content">
+<a href="opera.html">Opéra<br>Opera</a>
+<a href="operetta.html">Opereta<br>Operetta</a>
+<a href="vocalists2.html">Vocalistas de Opéra<br>Opera Vocalists</a>
+<a href="classical.html">Música Clasica<br>Classical Music</a>
+
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Palabra hablada<br>Spoken Word</a>
+<div class="dropdown-content">
+<a href="plays.html">Obras de Teatro<br>Theatre Plays</a>
+<a href="comedy.html">Comedia<br>Comedy</a>
+<a href="audiobooks.html">Audiolibros<br>Audiobooks</a>
+</div>
+</li>
+
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Otro vídeo<br>Other Video</a>
+<div class="dropdown-content">
+<a href="movies.html">Películas<br>Movies</a>
+<a href="lgbt.html">Películas LGBT<br>LGBT Movies</a>
+<a href="docs2.html">Documentales<br>Documentaries</a>
+<a href="tvshows.html">Telévision<br>TV Shows</a>
+<a href="concerts2.html">Conciertos<br>Concerts</a>
+<a href="operavid.html">Vídeos de Opéra<br>Opera Videos</a>
+</div>
+</li>
+
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Material Escrito<br>Written Materian</a>
+<div class="dropdown-content">
+<a href="scores.html">Partituras<br>Scores</a>
+<a href="libretti.html">Libretos<br>Libretti</a>
+<a href="scores2.html">Partituras Opéra<br>Opera Scores</a>
+<a href="libretti2.html">Libretos Opéra<br>Opera Libretti</a>
+<a href="ebooks.html">eLibros<br>eBooks</a>
+</div>
+</li>
+
+<li><a href="notes.html">Notas y Guía<br>Notes & Guidelines</a></li>
+<li><a href="wants.html">Lista de deseos<br>Wants List</a></li>
+
+<li><a href="mailto:musicalesperu@gmail.com?subject=Trade?"><img src="images/misc/mail.png" height="25px"></li></a>
 
 </ul>
 

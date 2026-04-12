@@ -10,16 +10,16 @@
   left: 0px;    
   right: 0px;
   width: 100%;
-  background-color: #000000;
+  background-color: #91694e;
   color: white;
 }
 .navbar a.active {
-  background-color: #000000;
+  background-color: #91694e;
   color: white;
   text-align: left;
 }
 .navbar a.active:hover {
-  background-color: #4d4d4d;
+  background-color: #D69E72;
   color: white;
 }
 ul {
@@ -33,7 +33,7 @@ ul {
   height: 37px;
 }
 li {
-  background-color: #000000;
+  background-color: #91694e;
   float: left;
   height: 37px;
 }
@@ -45,7 +45,7 @@ li a, .dropbtn {
   text-decoration: none;
 }
 li a:hover {
-  background-color: #4d4d4d;
+  background-color: #D69E72;
   color:  black;
 }
 li .dropdown {
@@ -59,13 +59,13 @@ li .right {
 }
 .dropdown {
   overflow: hidden;
-  background-color: #000000;
+  background-color: #91694e;
   border-right: none;
 }
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #4d4d4d;
+  background-color: #D69E72;
   color:  white;
   z-index: auto;
 }
@@ -79,7 +79,7 @@ li .right {
 }
 .dropdown-content a:hover {
   display: block;
-  background-color: #4d4d4d;
+  background-color: #D69E72;
   color:  white;
 }
 .dropdown:hover .dropdown-content {
@@ -102,7 +102,7 @@ li .right {
 }
 
 .navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: #656363;
+  background-color: #CC7A37;
   color:  white;
 }
 
@@ -112,7 +112,7 @@ li .right {
   align-content: center;
   padding: 12px 0px;
   left: 0;
-  background-color: #4d4d4d;
+  background-color: #D69E72;
   width: 100%;
   z-index: auto;
 
@@ -124,12 +124,12 @@ li .right {
 }
 
 .subnav-content a:hover {
-  background-color: #4d4d4d;
+  background-color: #D69E72;
   color: white;
 }
 
 .subnav:hover .subnav-content {
   display: block;
-    background-color: #4d4d4d;
+    background-color: #D69E72;
   }
 }
