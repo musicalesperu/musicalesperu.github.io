@@ -22,6 +22,7 @@ document.write(`
 <a href="cabaret.html"><img src="images/misc/cabaret2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="cage.html"><img src="images/misc/cage2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="camelot.html"><img src="images/misc/camelot2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="cancan.html"><img src="images/misc/cancan2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="carousel.html"><img src="images/misc/carousel2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="cats.html"><img src="images/misc/cats2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="chess.html"><img src="images/misc/chess2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -92,6 +93,7 @@ document.write(`
 <a href="rent.html"><img src="images/misc/rent2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="rocky.html"><img src="images/misc/rocky2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="romeo.html"><img src="images/misc/romeo2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="she.html"><img src="images/misc/she2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="boat.html"><img src="images/misc/boat2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="siebe.html"><img src="images/misc/siebe2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="sister.html"><img src="images/misc/sister2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -198,7 +200,7 @@ document.write(`
 <a href="javascript:void(0)" class="dropbtn">Audio relacionado<br>Related Audio</a>
 <div class="dropdown-content">
 <a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a>
-<a href="vocalists.html">Vocalistas<br>Vocalists</a>
+<a href="vocalists.html">Artistas de Teatro<br>Theatre Artists</a>
 <a href="compilations.html">Compilaciónes<br>Compilations</a>
 </div>
 </li>
@@ -246,7 +248,7 @@ document.write(`
 <li class="dropdown">
 <a href="javascript:void(0)" class="dropbtn">Otra Música<br>Other Music</a>
 <div class="dropdown-content">
-<a href="vocalists3.html">Vocalistas y Grupos<br>Vocalists & Groups</a>
+<a href="vocalists3.html">Artistas y Grupos<br>Artists & Groups</a>
 <a href="latina.html">Música Latina<br>Latin Music</a>
 <a href="francaise.html">Música Frances<br>French Music</a>
 <a href="compilations2.html">Compilaciónes<br>Compilations</a>
@@ -257,7 +259,7 @@ document.write(`
 <div class="dropdown-content">
 <a href="opera.html">Opéra<br>Opera</a>
 <a href="operetta.html">Opereta<br>Operetta</a>
-<a href="vocalists2.html">Vocalistas de Opéra<br>Opera Vocalists</a>
+<a href="vocalists2.html">Artistas Clasicas<br>Classical Artists</a></a>
 <a href="classical.html">Música Clasica<br>Classical Music</a>
 
 <li class="dropdown">
