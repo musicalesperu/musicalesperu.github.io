@@ -1,13 +1,13 @@
 @charset "utf-8";
 
 @font-face {
-    font-family: 'Sofia Pro Light';
+    font-family: 'Quicksand';
     font-style: normal;
     font-weight: normal;
-    src: local('Sofia Pro Light'), url('Sofia Pro Light Az.woff') format('woff');
+    src: local('Quicksand'), url('Quicksand.woff') format('woff');
     }
 body   {
-  font-family: Sofia Pro Light;
+  font-family: Quicksand;
   font-size: 12pt;
   color: #000000;
   line-height: 1.2;

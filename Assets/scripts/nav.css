@@ -1,9 +1,9 @@
 @charset "utf-8";
 @font-face {
-    font-family: 'Sofia Pro Light';
+    font-family: 'Quicksand';
     font-style: normal;
     font-weight: normal;
-    src: local('Sofia Pro Light'), url('Sofia Pro Light Az.woff') format('woff');
+    src: local('Quicksand'), url('Quicksand.woff') format('woff');
     }
 
 .navbar {
@@ -30,7 +30,7 @@ ul {
   list-style-type: none;
   margin: 0;
   overflow: hidden;
-  font-family: Sofia Pro Light;
+  font-family: Quicksand;
   font-size: 10px;
   color: white;
   background-color: #000000;
