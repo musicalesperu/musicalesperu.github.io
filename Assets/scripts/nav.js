@@ -86,8 +86,10 @@ document.write(`
 <a href="pal.html"><img src="images/misc/pal2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="phantom.html"><img src="images/misc/poto2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="piaf.html"><img src="images/misc/piaf2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<br>
 <a href="pippin.html"><img src="images/misc/pippin2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="porgy.html"><img src="images/misc/porgy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="priscilla.html"><img src="images/misc/priscilla2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="promises.html"><img src="images/misc/promises2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="rebecca.html"><img src="images/misc/rebecca2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="rent.html"><img src="images/misc/rent2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -112,13 +114,13 @@ document.write(`
 <a href="tommy.html"><img src="images/misc/tommy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="war.html"><img src="images/misc/war2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wewill.html"><img src="images/misc/wewill2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<br>
 <a href="west.html"><img src="images/misc/west2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wicked.html"><img src="images/misc/wicked2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wiz.html"><img src="images/misc/wiz2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wizard.html"><img src="images/misc/wizard2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="yagmcb.html"><img src="images/misc/yagmcb2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="mcoll.html"><img src="images/misc/mcoll2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="soundtracks.html"><img src="images/misc/soundtrack.png" height="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums 0.html">#</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums A.html">A</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Cast Albums B.html">B</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -148,6 +150,7 @@ document.write(`
 <div class="subnav"><a href="javascript:void(0)" class="dropbtn">Audios no comerciales<br>Non-Commercial Audios</a>
 <div class="subnav-content">
 <center><a href="bloodboots.html"><img src="images/misc/blood2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="cabaretboots.html"><img src="images/misc/cabaret2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="cageboots.html"><img src="images/misc/cage2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="catsboots.html"><img src="images/misc/cats2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="chessboots.html"><img src="images/misc/chess2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -156,7 +159,10 @@ document.write(`
 <a href="dreamboots.html"><img src="images/misc/dream2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="elisabethboots.html"><img src="images/misc/sisi2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="evitaboots.html"><img src="images/misc/evita2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="fiddlerboots.html"><img src="images/misc/fiddler2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="folliesboots.html"><img src="images/misc/follies2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="funnygirlboots.html"><img src="images/misc/funny2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="funnythingboots.html"><img src="images/misc/forum2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="gypsyboots.html"><img src="images/misc/gypsy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="hellodollyboots.html"><img src="images/misc/dolly2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="intothewoodsboots.html"><img src="images/misc/woods2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -169,12 +175,19 @@ document.write(`
 <a href="manolmboots.html"><img src="images/misc/molm2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="lesmisboots.html"><img src="images/misc/lesmis2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="misssaigonboots.html"><img src="images/misc/saigon2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<br>
+<a href="myfairladyboots.html"><img src="images/misc/mfl2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="notredameboots.html"><img src="images/misc/nddp2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="phantomboots.html"><img src="images/misc/poto2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="priscillaboots.html"><img src="images/misc/priscilla2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="rebeccaboots.html"><img src="images/misc/rebecca2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="rent.html"><img src="images/misc/rent2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="rockyboots.html"><img src="images/misc/rocky2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="spamboots.html"><img src="images/misc/spam2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="starlightboots.html"><img src="images/misc/starlight2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="sunsetboots.html"><img src="images/misc/sunset2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="sweeneyboots.html"><img src="images/misc/sweeney2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="sweetcharityboots.html"><img src="images/misc/charity2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="tanzboots.html"><img src="images/misc/tanz2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wickedboots.html"><img src="images/misc/wicked2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="boots1.html"># - E</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -200,6 +213,7 @@ document.write(`
 <a href="javascript:void(0)" class="dropbtn">Audio relacionado<br>Related Audio</a>
 <div class="dropdown-content">
 <a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a>
+<a href="soundtracks.html">Bandas Sonoras<br>Soundtracks</a>
 <a href="vocalists.html">Artistas de Teatro<br>Theatre Artists</a>
 <a href="compilations.html">Compilaciónes<br>Compilations</a>
 </div>
