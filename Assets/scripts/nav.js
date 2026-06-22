@@ -18,7 +18,7 @@ document.write(`
 <a href="blood.html"><img src="images/misc/blood2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="boyfriend.html"><img src="images/misc/boy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="byebyebirdie.html"><img src="images/misc/birdie2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="brig.html"><img src="images/misc/brig2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="brigadoon.html"><img src="images/misc/brig2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="cabaret.html"><img src="images/misc/cabaret2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="cage.html"><img src="images/misc/cage2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="camelot.html"><img src="images/misc/camelot2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -235,8 +235,8 @@ document.write(`
 <center>
 <a href="bloodvid.html"><img src="images/misc/blood2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="cabaretvid.html"><img src="images/misc/cabaret2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="catsvid.html"><img src="images/misc/cats2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="cagevid.html"><img src="images/misc/cage2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="catsvid.html"><img src="images/misc/cats2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="chessvid.html"><img src="images/misc/chess2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="chicagovid.html"><img src="images/misc/chicago2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="elisabethvid.html"><img src="images/misc/sisi2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
