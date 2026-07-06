@@ -4,7 +4,6 @@ document.write(`
 
 <div><li><a href="main.html"><img src="images/misc/home.png" height="25px"></li></a></div>
 
-
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
 <div class="subnav-content">
@@ -101,7 +100,7 @@ document.write(`
 <a href="sister.html"><img src="images/misc/sister2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="song.html"><img src="images/misc/song2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="som.html"><img src="images/misc/som2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="pacific.html"><img src="images/misc/pacific2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="southpacific.html"><img src="images/misc/pacific2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="spam.html"><img src="images/misc/spam2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="spring.html"><img src="images/misc/spring2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="starlight.html"><img src="images/misc/starlight2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -110,7 +109,7 @@ document.write(`
 <a href="sweeney.html"><img src="images/misc/sweeney2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="sweetcharity.html"><img src="images/misc/charity2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="tanz.html"><img src="images/misc/tanz2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="playing.html"><img src="images/misc/playing2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="theyreplaying.html"><img src="images/misc/playing2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="tommy.html"><img src="images/misc/tommy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="war.html"><img src="images/misc/war2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wewill.html"><img src="images/misc/wewill2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -298,7 +297,7 @@ document.write(`
 </li>
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Material Escrito<br>Written Materian</a>
+<a href="javascript:void(0)" class="dropbtn">Material Escrito<br>Written Material</a>
 <div class="dropdown-content">
 <a href="scores.html">Partituras<br>Scores</a>
 <a href="libretti.html">Libretos<br>Libretti</a>
@@ -308,10 +307,14 @@ document.write(`
 </div>
 </li>
 
-<li><a href="notes.html">Notas y Guía<br>Notes & Guidelines</a></li>
-<li><a href="wants.html">Lista de deseos<br>Wants List</a></li>
-
-<li><a href="mailto:musicalesperu@gmail.com?subject=Trade?"><img src="images/misc/mail.png" height="25px"></li></a>
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropbtn">Material Adultos Gay<br>Gay Adult Material</a>
+<div class="dropdown-content">
+<a href="moviesxx.html">Pelíciulas<br>Films</a>
+<a href="booksxx.html">Libros<br>Books</a>
+<a href="comicsxx.html">Libros Comicos<br>Comic Books</a>
+</div>
+</li>
 
 </ul>
 
