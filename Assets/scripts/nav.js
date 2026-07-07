@@ -307,15 +307,9 @@ document.write(`
 </div>
 </li>
 
-<li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn">Material Adultos Gay<br>Gay Adult Material</a>
-<div class="dropdown-content">
-<a href="moviesxx.html">Pelíciulas<br>Films</a>
-<a href="booksxx.html">Libros<br>Books</a>
-<a href="comicsxx.html">Libros Comicos<br>Comic Books</a>
-</div>
-</li>
-
+<li><a href="notes.html">Notas y guía<br>Notes & Guidelines</a></li>
+<li><a href="wants.html">Lista de deseos<br>Wants List</a></li>
+<li><a href="mailto:musicalesperu@gmail.com?subject=Trade Enquiry"><img src="images/misc/mail.png"></a></li>
 </ul>
 
 `);
