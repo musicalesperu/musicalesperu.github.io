@@ -29,6 +29,7 @@ document.write(`
 <a href="chorus.html"><img src="images/misc/chorus2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="company.html"><img src="images/misc/company2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="evan.html"><img src="images/misc/evan2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
+<a href="december.html"><img src="images/misc/december2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="dream.html"><img src="images/misc/dream2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="dreigroschen.html"><img src="images/misc/3penny2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="elisabeth.html"><img src="images/misc/sisi2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -84,8 +85,8 @@ document.write(`
 <a href="paint.html"><img src="images/misc/paint2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="pal.html"><img src="images/misc/pal2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="phantom.html"><img src="images/misc/poto2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="piaf.html"><img src="images/misc/piaf2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <br>
+<a href="piaf.html"><img src="images/misc/piaf2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="pippin.html"><img src="images/misc/pippin2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="porgy.html"><img src="images/misc/porgy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="priscilla.html"><img src="images/misc/priscilla2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
@@ -112,8 +113,8 @@ document.write(`
 <a href="theyreplaying.html"><img src="images/misc/playing2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="tommy.html"><img src="images/misc/tommy2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="war.html"><img src="images/misc/war2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
-<a href="wewill.html"><img src="images/misc/wewill2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <br>
+<a href="wewill.html"><img src="images/misc/wewill2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="west.html"><img src="images/misc/west2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wicked.html"><img src="images/misc/wicked2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
 <a href="wiz.html"><img src="images/misc/wiz2.png" height="30px"></a>&nbsp;&nbsp;&nbsp;
